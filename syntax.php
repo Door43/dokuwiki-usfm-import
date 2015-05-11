@@ -18,7 +18,7 @@ require_once(DOKU_INC . 'inc/auth.php');
 require_once(DOKU_INC . 'inc/infoutils.php');
 
 //define for debug
-define ('RUN_STATUS', 'DEBUG');
+define ('RUN_STATUS', 'SERVER');
 
 class syntax_plugin_usfmimport extends DokuWiki_Syntax_Plugin {
 

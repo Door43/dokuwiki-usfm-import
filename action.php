@@ -14,7 +14,7 @@ require_once(DOKU_INC . 'inc/media.php');
 require_once(DOKU_INC . 'inc/infoutils.php');
 
 //define for debug
-define ('RUN_STATUS', 'DEBUG');
+define ('RUN_STATUS', 'SERVER');
 
 class action_plugin_usfmimport extends DokuWiki_Action_Plugin {
 
