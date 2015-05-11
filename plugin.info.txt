@@ -1,0 +1,5 @@
+base usfmimport
+author Yvonne Lu
+email yvonnel@leapinglaptop.com
+name usfmimport Plugin
+desc Upload and decompress a zip file into a namespace depending on the user rights.
